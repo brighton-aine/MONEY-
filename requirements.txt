@@ -1,5 +1,5 @@
 
-cd flask_pwa_app
+flask
 git init
 git add .
 git commit -m "Initial commit"
